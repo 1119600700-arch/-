@@ -1,0 +1,5 @@
+{
+  "name": "Sentient IP",
+  "description": "An advanced IP address lookup and analysis tool powered by Gemini AI. Discover your digital footprint, ISP details, and get AI-generated insights about your network location.",
+  "requestFramePermissions": []
+}
